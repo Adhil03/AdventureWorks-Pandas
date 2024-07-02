@@ -18,7 +18,7 @@ This repository contains scripts and resources for validating data from the Adve
 ## Contributors
 
 - Name 1: Mohamed Zaseem
-- Name 2: Mophammed Haris
+- Name 2: Mohammed Harris
 - Name 3: Adhil
 
 ## Usage
